@@ -1,0 +1,13 @@
+# Sub-repos (each has its own git)
+installer/
+web/
+docs/
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Claude
+.claude/
+CLAUDE.md
