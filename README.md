@@ -12,7 +12,7 @@
 
 ---
 
-Roxlit is an open-source launcher that connects AI tools (Claude Code, Cursor, Windsurf, Copilot) to Roblox Studio. It installs the entire development environment, generates AI context so your assistant actually understands Roblox, and manages Rojo + RbxSync with a single click.
+Roxlit is an open-source launcher that connects AI tools (Claude Code, Cursor, Windsurf, Copilot) to Roblox Studio. It installs the entire development environment, generates AI context so your assistant actually understands Roblox, and manages file sync + MCP with a single click.
 
 ## Repositories
 
@@ -24,15 +24,15 @@ Roxlit is an open-source launcher that connects AI tools (Claude Code, Cursor, W
 
 ## What Roxlit Does
 
-1. **Installs everything** — Aftman, Rojo, RbxSync, Studio plugins. No terminal needed.
+1. **Installs everything** — Aftman, Rojo, Studio plugins, MCP server. No terminal needed.
 2. **Generates AI context** — Curated Roblox documentation (context packs) so your AI writes correct Luau code instead of hallucinating APIs.
-3. **Launches with one click** — Starts Rojo + RbxSync, opens your editor, streams logs in real time.
+3. **Launches with one click** — Starts Rojo + MCP server, opens your editor, streams logs in real time.
 
 ## Roadmap
 
 ### Now
 - [x] Desktop launcher (Windows)
-- [x] One-click Rojo + RbxSync setup
+- [x] One-click Rojo + MCP setup
 - [x] AI context generation (Claude, Cursor, Windsurf, Copilot)
 - [x] Context packs — curated Roblox docs for AI (DataStore, RemoteEvents, Physics, Replication, etc.)
 - [x] Studio plugin auto-install
