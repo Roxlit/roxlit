@@ -30,23 +30,31 @@ Roxlit is an open-source launcher that connects AI tools (Claude Code, Cursor, W
 
 ## Roadmap
 
-### Now
+Full roadmap at [roxlit.dev/roadmap](https://roxlit.dev/roadmap).
+
+### Done
 - [x] Desktop launcher (Windows)
 - [x] One-click Rojo + MCP setup
 - [x] AI context generation (Claude, Cursor, Windsurf, Copilot)
-- [x] Context packs — curated Roblox docs for AI (DataStore, RemoteEvents, Physics, Replication, etc.)
+- [x] Context packs — 7 curated Roblox documentation packs
 - [x] Studio plugin auto-install
+- [x] MCP server with 15+ tools (run code, logs, backups, telemetry)
+- [x] Smart backups (snapshots, restore, diff)
+- [x] Real-time telemetry system
+- [x] Studio log capture with per-playtest rotation
 
-### Next
-- [ ] macOS support
-- [ ] Context packs v2 — user-selectable packs per service
-- [ ] Project templates (obby, tycoon, RPG starter)
-- [ ] Plugin API for community extensions
+### In Progress
+- [ ] DevForum Community Resources post
+- [ ] Discord server
+- [ ] Video tutorials / demos
 
-### Later
-- [ ] Marketplace — premium modules and assets
-- [ ] Team collaboration features
-- [ ] Custom context pack authoring
+### Planned
+- [ ] Advanced telemetry (collision logging, filtering)
+- [ ] Sandbox testing environments
+- [ ] Autonomous debug loop with safety rails
+- [ ] Unified sync engine (own plugin, Rojo-compatible)
+- [ ] Asset marketplace
+- [ ] Team collaboration
 
 ## Contributing
 
