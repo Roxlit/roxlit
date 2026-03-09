@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://roxlit.dev">Website</a> ·
   <a href="https://github.com/Roxlit/installer/releases/latest">Download</a> ·
-  <a href="https://discord.gg/roxlit">Discord</a>
+  <a href="https://discord.gg/xZgmXzFecP">Discord</a>
 </p>
 
 ---
